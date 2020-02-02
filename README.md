@@ -6,6 +6,7 @@ The amount of text data available is mind-boggling. We will explore programatic 
 ## Installation
 
 `pip install -r requirments.txt`
+
 `python -m spacy download en_core_web_sm`
 
 https://spacy.io/usage/models
